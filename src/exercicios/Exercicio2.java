@@ -25,7 +25,7 @@ Apresente o valor que representa o consumo médio do automóvel com 3 casas após a
 		float combustivelGasto = 0;
 		
 		
-		
+		//Coletando os dados do usuario
 		//Coletando os dados do usuario
 		valorPercorridoKM = scan.nextInt();
 		combustivelGasto = scan.nextFloat();
